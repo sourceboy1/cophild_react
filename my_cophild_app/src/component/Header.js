@@ -5,7 +5,7 @@ import './style.css';
 const Header = () => {
     return (
         <header className="header">
-            <img src="https://shorturl.at/bZOlL" alt="Logo"/>
+            <img src="https://tinyurl.com/yc2uemnv" alt="Logo"/>
             <nav className="nav">
             <a href="#home">Home</a>
             <a href='#about'>About</a>

@@ -52,3 +52,35 @@
     background-color: #5a6268;
 }
 
+.main-content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .intro {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .gallery {
+    text-align: center;
+  }
+  
+  .image-slider {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .image-slider img {
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+  }
+  
+  .footer {
+    background-color: #3a923a;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
