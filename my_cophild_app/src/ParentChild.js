@@ -1,7 +1,7 @@
-import React from "react";
-import Headers from "./component/Header";
-import MainContent from "./component/MainContent";
-import Footer from "./component/Footer";
+    import React from "react";
+    import Headers from "./component/Header";
+    import MainContent from "./component/MainContent";
+    import Footer from "./component/Footer";
 
 
 function ParentChild () {
